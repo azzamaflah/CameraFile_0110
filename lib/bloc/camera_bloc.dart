@@ -123,4 +123,22 @@ class CameraBloc extends Bloc<CameraEvent, CameraState> {
       );
     }
   }
+
+  Future<void> _onDeleteImage(
+    DeleteImage event,
+    Emitter<CameraState> emit,
+  ) async {
+    if (state is! CameraReady) return;
+    final s = state as CameraReady;
+    await s.imageFile?.delete();
+    emit(
+      CameraReady(
+        controller: s.controller,
+        selectedIndex: s.selectedIndex,
+        flashMode: s.flashMode,
+        imageFile: null,
+        snackBarMessage: 'Gambar dihapus',
+      ),
+    );
+  }
 }
