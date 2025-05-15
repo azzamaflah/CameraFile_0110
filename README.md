@@ -1,16 +1,22 @@
-# camerafile
+<h1>Tampilan awal</h1>
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/f3ead56b-23dc-469e-bdf5-19ecad469bc0)
 
-## Getting Started
+<h1>Camera belakang</h1>
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/bf1703c5-55ab-4b41-86c8-4741882187d6)
 
-A few resources to get you started if this is your first Flutter project:
+<h1>Camera Depan</h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/8282b9db-13c0-48bb-978d-fcba7647a84a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Gambar disimpan</h1>
+
+![image](https://github.com/user-attachments/assets/a4686e2b-3d8a-4985-9b8f-e0f5d4e172e6)
+
+![image](https://github.com/user-attachments/assets/b23c8dac-cf4a-47ba-8d1e-a575eb331d8b)
+
+
+<h1>Gambar Di Hapus</h1>
+
+![image](https://github.com/user-attachments/assets/525e78fd-7c36-4ed9-ba02-b520e6c5ce70)
